@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Human vs Rabbit Prothrombin</title>
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.0.4/3Dmol-min.js"></script>
+  <script defer src="./site_data.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body>
+  <div class="bg-orb bg-orb-a"></div>
+  <div class="bg-orb bg-orb-b"></div>
+  <header class="masthead">
+    <div class="kicker">Interactive feature</div>
+    <h1>Human vs Rabbit Prothrombin</h1>
+    <p class="deck">A visual story about a tiny deletion, a big cleavage site, and why rabbit prothrombin is not a drop-in model for the human assay.</p>
+    <div class="masthead-meta">
+      <div><span>Human</span><strong>P00734</strong></div>
+      <div><span>Rabbit</span><strong id="rabbit-accession">loading...</strong></div>
+      <div><span>First Xa site</span><strong>314/315</strong></div>
+      <div><span>Gap</span><strong>299-303</strong></div>
+    </div>
+  </header>
+
+  <nav class="topnav">
+    <a href="#viewer">3D viewer</a>
+    <a href="#mechanism">Mechanism</a>
+    <a href="#alignment">Alignment</a>
+    <a href="#gallery">Figures</a>
+    <a href="#conclusion">Conclusion</a>
+  </nav>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <section class="card facts">
+        <h2>What to notice</h2>
+        <ul id="fact-list"></ul>
+      </section>
+      <section class="card quote">
+        <p>“The rabbit gap sits where the first cut happens. That is why the species difference matters.”</p>
+      </section>
+      <section class="card stats">
+        <h2>Key metrics</h2>
+        <dl id="metrics-dl"></dl>
+      </section>
+    </aside>
+
+    <section class="content">
+      <section class="hero-grid">
+        <article class="card intro">
+          <h2>The short version</h2>
+          <p>Rabbit prothrombin looks close on paper, but the first Xa neighborhood is where the story breaks. The sequence gap is small, yet it lands in the part of the protein that matters most for F1.2 generation and thrombin research.</p>
+          <p>The site below lets you rotate the AlphaFold rabbit model, switch views, and jump between the first and second cleavage regions.</p>
+        </article>
+        <article class="card pulse">
+          <h2>Why the paper mattered</h2>
+          <p>The old rabbit experiment asked a simple question: can rabbit F1.2 stand in for human F1.2? The answer was no, and the 3D model here shows a plausible reason why.</p>
+        </article>
+      </section>
+
+      <section id="viewer" class="section">
+        <div class="section-head">
+          <div>
+            <h2>Rotate the protein</h2>
+            <p>Drag the model, zoom in, and switch modes to compare the human and rabbit structures around the cleavage site.</p>
+          </div>
+          <div class="chip-row">
+            <span class="chip">Interactive 3D</span>
+            <span class="chip">AlphaFold-derived</span>
+            <span class="chip">First-site focus</span>
+          </div>
+        </div>
+        <div class="viewer-shell">
+          <div id="viewer-status" class="viewer-status">Loading interactive molecular view...</div>
+          <div id="molecule-viewer" class="viewer-canvas"></div>
+        </div>
+        <div class="control-row" id="mode-buttons"></div>
+      </section>
+
+      <section id="mechanism" class="section grid-two">
+        <article class="card panel">
+          <h2>How the cut works</h2>
+          <p>Factor Xa trims prothrombin at two places. The first cut is the key one for F1.2. In the rabbit model, the deletion sits right in that neighborhood, so the local architecture is changed where the action starts.</p>
+          <div class="mechanism-steps" id="mechanism-steps"></div>
+        </article>
+        <article class="card panel">
+          <h2>Why it matters for thrombin research</h2>
+          <p>The mechanism graphic and the 3D model tell the same story: if the first cut site shifts shape, the assay output can shift too. That means rabbit data can be useful as a clue, but it should not be read as a direct human substitute.</p>
+          <img src="../figures/cleavage_mechanism.png" alt="Cleavage mechanism graphic" class="full-image" />
+        </article>
+      </section>
+
+      <section id="cut-theory" class="section card">
+        <div class="section-head">
+          <div>
+            <h2>What could make human easier to cut?</h2>
+            <p>The cards below translate the 3D overlay into plain language. Click one to focus the viewer on the first cleavage region.</p>
+          </div>
+        </div>
+        <div id="cut-theory-grid" class="theory-grid"></div>
+      </section>
+
+      <section id="alignment" class="section card">
+        <div class="section-head">
+          <div>
+            <h2>Sequence alignment around the first cut</h2>
+            <p>The gap is highlighted in magenta. Click a residue to focus the 3D viewer on that spot.</p>
+          </div>
+          <button class="ghost-button" id="focus-gap">Focus gap</button>
+        </div>
+        <div id="alignment-band" class="alignment-band"></div>
+      </section>
+
+      <section class="section grid-two">
+        <article class="card">
+          <h2>What the 3D view should make obvious</h2>
+          <ul class="bullet-list" id="why-list"></ul>
+        </article>
+        <article class="card">
+          <h2>Evidence trail</h2>
+          <p>The figures and metrics below are the same ones used in the written report, but the site lets you move between them like a story rather than a static paper.</p>
+          <div class="image-strip">
+            <img src="../renderings/02_first_xa_closeup.png" alt="First Xa closeup" />
+            <img src="../renderings/03_deletion_flanks.png" alt="Deletion flanks" />
+          </div>
+        </article>
+      </section>
+
+      <section id="gallery" class="section">
+        <div class="section-head">
+          <div>
+            <h2>Figures you can open</h2>
+            <p>Click any panel to enlarge it. The gallery includes the new mechanism illustration and the existing 3D renderings.</p>
+          </div>
+        </div>
+        <div id="gallery-grid" class="gallery-grid"></div>
+      </section>
+
+      <section id="conclusion" class="section card conclusion">
+        <h2>Bottom line</h2>
+        <p>Rabbit prothrombin is not a direct stand-in for human prothrombin in F1.2 or first-cleavage-site work. The AlphaFold rabbit model makes that difference visible at the exact place the protein gets cut, which is why the original hypothesis holds up.</p>
+        <p>Static structure does not prove kinetics, but it can show you where the chemistry is likely to change. Here, the shape difference sits right on top of the biological question.</p>
+      </section>
+    </section>
+  </main>
+
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <button class="lightbox-close" id="lightbox-close">Close</button>
+    <img id="lightbox-image" alt="Expanded figure" />
+    <p id="lightbox-caption"></p>
+  </div>
+</body>
+</html>

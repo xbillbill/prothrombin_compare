@@ -1,0 +1,34 @@
+# ChimeraX render script for human vs rabbit prothrombin.
+# Run from project root:
+#   chimerax --nogui outputs/render_human_rabbit_prothrombin.cxc
+open /Users/billwang/alphafold/prothrombin_compare/data/structures/human_AF_P00734.pdb
+rename #1 human
+open /Users/billwang/alphafold/prothrombin_compare/data/structures/rabbit_aligned_to_human.pdb
+rename #2 rabbit
+
+hide atoms
+cartoon #1
+color #1 gray
+color #1:300-330 red
+color #1:350-375 orange
+color #1:299-303 magenta
+style #1:314,315,363,364 sphere
+
+cartoon #2
+color #2 cyan
+color #2:296-303 magenta
+style #2:300-326,296-303 stick
+
+view
+save outputs/renderings/01_whole_overlay.png width 1800 height 1400 supersample 3
+view #1:300-330
+save outputs/renderings/02_first_xa_closeup.png width 1800 height 1400 supersample 3
+view #1:299-303
+save outputs/renderings/03_deletion_flanks.png width 1800 height 1400 supersample 3
+view #1:350-375
+save outputs/renderings/04_second_xa_control.png width 1800 height 1400 supersample 3
+surface #1:300-330
+transparency #1:300-330 45
+view #1:300-330
+save outputs/renderings/05_first_xa_surface.png width 1800 height 1400 supersample 3
+exit

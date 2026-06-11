@@ -1,0 +1,7 @@
+biopython
+requests
+pandas
+matplotlib
+numpy
+pillow
+reportlab

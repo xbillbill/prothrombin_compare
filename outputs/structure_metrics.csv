@@ -1,0 +1,4 @@
+metric,value,n_pairs,status
+whole_model_ca_rmsd_angstrom,8.571601429967375,616,complete
+first_xa_window_300_330_ca_rmsd_angstrom,8.177920729083395,27,complete
+second_xa_window_350_375_ca_rmsd_angstrom,5.348764487236,26,complete

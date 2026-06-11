@@ -1,0 +1,20 @@
+{
+  "status": "complete",
+  "rabbit_model_type": "alphafold_website_prediction",
+  "rabbit_model_source": "AlphaFold website prediction imported locally",
+  "superposition_ca_pairs": 616,
+  "whole_model_ca_rmsd_angstrom": 8.571601429967375,
+  "whole_model_ca_pairs": 616,
+  "first_xa_window_300_330_ca_rmsd_angstrom": 8.177920729083395,
+  "first_xa_window_ca_pairs": 27,
+  "second_xa_window_350_375_ca_rmsd_angstrom": 5.348764487236,
+  "second_xa_window_ca_pairs": 26,
+  "first_site_gap_human_positions": [
+    299,
+    300,
+    301,
+    302,
+    303
+  ],
+  "note": "AlphaFold-derived structures are hypotheses and do not establish cleavage kinetics."
+}

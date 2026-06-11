@@ -1,0 +1,7 @@
+Rabbit-alignment gaps near human precursor first Xa site (scan 294-334):
+- human 299-303 (5 aa): TGDGL
+
+Alignment excerpt:
+human_pos: 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334
+human:     A   V   E   E   E   T   G   D   G   L   D   E   D   S   D   R   A   I   E   G   R   T   A   T   S   E   Y   Q   T   F   F   N   P   R   T   F   G   S   G   E   A 
+rabbit:    A   I   E   E   E   -   -   -   -   -   V   L   G   L   E   E   A   I   E   G   R   T   T   E   Q   E   F   Q   T   F   F   N   Q   E   T   F   G   T   G   E   A 

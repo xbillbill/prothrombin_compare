@@ -1,0 +1,63 @@
+{
+  "deletion_detected": true,
+  "generated_files": [
+    "data/sequences/human_P00734.fasta",
+    "data/raw/uniprot_search_rabbit.json",
+    "data/raw/ncbi_search_rabbit.json",
+    "data/sequences/rabbit_F2.fasta",
+    "data/alignments/human_rabbit_global_alignment.txt",
+    "data/alignments/human_rabbit_global_alignment.csv",
+    "outputs/deletion_summary.csv",
+    "outputs/deletion_summary.txt",
+    "data/structures/rabbit_colabfold_input.fasta",
+    "data/structures/RUN_COLABFOLD_INSTRUCTIONS.md",
+    "outputs/view_human_rabbit_prothrombin.pml",
+    "outputs/structure_metrics.json",
+    "outputs/structure_metrics.csv",
+    "data/structures/human_AF_P00734.pdb",
+    "outputs/figures/domain_map.png",
+    "outputs/figures/cleavage_alignment.png",
+    "outputs/report.md",
+    "outputs/render_human_rabbit_prothrombin.pml",
+    "outputs/render_human_rabbit_prothrombin.cxc",
+    "outputs/rendering_manifest.json",
+    "outputs/renderings/01_whole_overlay.png",
+    "outputs/renderings/02_first_xa_closeup.png",
+    "outputs/renderings/03_deletion_flanks.png",
+    "outputs/renderings/04_second_xa_control.png",
+    "outputs/renderings/05_first_xa_surface.png",
+    "data/structures/rabbit_threaded_from_human_AF_P00734.pdb",
+    "data/structures/rabbit_aligned_to_human.pdb",
+    "outputs/figures/metrics_barplot.png",
+    "outputs/pnas_style_report.md",
+    "outputs/report.pdf",
+    "outputs/scientific_american_style_explainer.pdf",
+    "data/structures/rabbit_AF_model.pdb",
+    "outputs/figures/cleavage_mechanism.png",
+    "outputs/site/site_data.js",
+    "outputs/site/index.html",
+    "outputs/site/styles.css",
+    "outputs/site/app.js"
+  ],
+  "human_accession": "P00734",
+  "rabbit_accession": "XP_002709128.3",
+  "rabbit_sequence_source": "NCBI Protein",
+  "rabbit_sequence_status": "resolved",
+  "structure_sources": {
+    "human": {
+      "accession": "P00734",
+      "path": "data/structures/human_AF_P00734.pdb",
+      "source": "AlphaFold DB",
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P00734-F1-model_v6.pdb"
+    },
+    "rabbit": {
+      "accession": "XP_002709128.3",
+      "aligned_path": "data/structures/rabbit_aligned_to_human.pdb",
+      "path": "data/structures/rabbit_AF_model.pdb",
+      "source": "AlphaFold website prediction imported locally",
+      "source_type": "alphafold_website_prediction"
+    }
+  },
+  "timestamp": "2026-06-05T05:38:59.346067+00:00",
+  "warnings": []
+}

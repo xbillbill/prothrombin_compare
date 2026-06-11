@@ -1,0 +1,2308 @@
+{
+  "organism_id:9986 AND gene:F2": {
+    "results": []
+  },
+  "\"Oryctolagus cuniculus\" prothrombin": {
+    "results": [
+      {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "P98139",
+        "uniProtkbId": "FA7_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "value": "Coagulation factor VII"
+            },
+            "ecNumbers": [
+              {
+                "value": "3.4.21.21"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "value": "Serum prothrombin conversion accelerator"
+              }
+            }
+          ],
+          "contains": [
+            {
+              "recommendedName": {
+                "fullName": {
+                  "value": "Factor VII light chain"
+                }
+              }
+            },
+            {
+              "recommendedName": {
+                "fullName": {
+                  "value": "Factor VII heavy chain"
+                }
+              }
+            }
+          ],
+          "flag": "Precursor"
+        },
+        "genes": [
+          {
+            "geneName": {
+              "value": "F7"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MAPQARGLGLCSLLALQASLAAVFITQEEAHSVLRRQRRANSFLEELRPGSLERECKEELCSFEEAREVFQSTERTKQFWITYNDGDQCASNPCQNGGSCEDQIQSYICFCLADFEGRNCEKNKNDQLICMYENGGCEQYCSDHVGSQRSCRCHEGYTLLPNGVSCTPTVDYPCGKVPALEKRGASNPQGRIVGGKVCPKGECPWQAALMNGSTLLCGGSLLDTHWVVSAAHCFDKLSSLRNLTIVLGEHDLSEHEGDEQVRHVAQLIMPDKYVPGKTDHDIALLRLLQPAALTNNVVPLCLPERNFSESTLATIRFSRVSGWGQLLYRGALARELMAIDVPRLMTQDCVEQSEHKPGSPEVTGNMFCAGYLDGSKDACKGDSGGPHATSYHGTWYLTGVVSWGEGCAAVGHVGVYTRVSRYTEWLSRLMRSKLHHGIQRHPFP",
+          "length": 444,
+          "molWeight": 49011,
+          "crc64": "0481ABC4FE5427F8",
+          "md5": "5069D655C64F75D1F44E8B46C83EB598"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI000012A415"
+        }
+      },
+      {
+        "entryType": "UniProtKB reviewed (Swiss-Prot)",
+        "primaryAccession": "O19045",
+        "uniProtkbId": "FA10_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "value": "Coagulation factor X"
+            },
+            "ecNumbers": [
+              {
+                "value": "3.4.21.6"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "value": "Stuart factor"
+              }
+            }
+          ],
+          "contains": [
+            {
+              "recommendedName": {
+                "fullName": {
+                  "value": "Factor X light chain"
+                }
+              }
+            },
+            {
+              "recommendedName": {
+                "fullName": {
+                  "value": "Factor X heavy chain"
+                }
+              }
+            },
+            {
+              "recommendedName": {
+                "fullName": {
+                  "value": "Activated factor Xa heavy chain"
+                }
+              }
+            }
+          ],
+          "flag": "Precursor"
+        },
+        "genes": [
+          {
+            "geneName": {
+              "value": "F10"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MANPLHLVLLGAALAGLLLSGSSVFISRRAANDVLARTRRANSFLEELKKGNLERECMEENCSYEEALEVFEDREKTNEFWNKYVDGDQCESNPCQNQGTCKDGLGMYTCSCVEGYEGQDCEPVTRKLCSLDNGGCDQFCKEEENSVLCSCASGYTLGDNGKSCISTELFPCGKVTLGRWRRSPATNSSEGPPEAPGPEQQDDGNLTATENPFNLLDSPEPPPEDDSSSLVRIVGGQDCRDGECPWQALLVNEENEGFCGGTILSEYHVLTAAHCLHQAKRFKVRVGDRDTEHEEGNEETHEVEVVVKHNRFVKETYDFDIAVLRLKTPITFRRNVAPACLPQKDWAESTLMAQKTGIVSGFGRTHEMGRLSTTLKMLEVPYVDRNSCKRSSSFTITQNMFCAGYDARPEDACQGDSGGPHVTRFRDTYFVTGIVSWGEGCARKGKFGVYTKVSNFLKWIEKSMRARAVPVAEAAGTPGPTQPTIKGSPS",
+          "length": 490,
+          "molWeight": 53965,
+          "crc64": "3A39FA85AF2A6D11",
+          "md5": "12BD9A29E28253BF823435AD51272C7F"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI000012A409"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1U5G9",
+        "uniProtkbId": "G1U5G9_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000024648.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00015530"
+                }
+              ],
+              "value": "Coagulation factor VII"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00012069"
+                  }
+                ],
+                "value": "3.4.21.21"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00030307"
+                  }
+                ],
+                "value": "Serum prothrombin conversion accelerator"
+              }
+            }
+          ]
+        },
+        "sequence": {
+          "value": "KQFWITYNDGDQCASNPCQNGGSCEDQIQSYICFCLADFEGRNCEKNKNDQLICMYENGGCEQYCSDHVGSQRSCRCHEGYTLLPNGVSCTPTVDYPCGKVPALEKRGASNPQGRIVGGKVCPKGECPWQAALMNGSTLLCGGSLLDTHWVVSAAHCFDKLSSLRNLTIVLGEHDLSEHEGDEQVRHVAQLIMPDKYVPGKTDHDIALLRLLQPAVLTNNVVPLCLPERNFSESTLATIRFSRVSGWGQLLYRGALARELMAIDVPRLMTQDCVEQSEHKPGSPEVTGNMFCAGYLDGSKDACKGDSGGPHATSYHGTWYLTGVVSWGEGCAAVGHVGVYTRVSRYTEWLSRLMRSKLHHGIQRHPFP",
+          "length": 368,
+          "molWeight": 40462,
+          "crc64": "40E7A0A1A4483203",
+          "md5": "0279732563504D0CD9B985B7268514BC"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI0001C64F95"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1SJE1",
+        "uniProtkbId": "G1SJE1_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000002848.3"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00069450"
+                }
+              ],
+              "value": "Integrin alpha-IIb"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00082416"
+                  }
+                ],
+                "value": "GPalpha IIb"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00078858"
+                  }
+                ],
+                "value": "Platelet membrane glycoprotein IIb"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000002848.3"
+                }
+              ],
+              "value": "ITGA2B"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MARALGPLPAFWFLEWALLLLGPGAGPPAWALNLDPVQLTIYTGLNGSHFGFSLDFYKDSHGSVAIVVGAPRTLGLGQKETGGVFLCPWKAEGSPCSLLSFNLSDEYRKTSSQLFQTFRARQGLGASVVSWNDIIVACAPWQQWNVLEKAAEAEKTPVGGCFVAHLPSGRRAEYSPCRGNTMSHVYEKMYLRDLRSCEAGFSSVITQEGELSVRPPPLSRYSPGVLLWTVPNQNFTFDYSNRKYFDGYRGYSVAVGEFDGDLSTTEYVLGAPTWSWTMGAVEILDSYFYRLHRLQGEQMASYFGHSVAVTDVNGDGRHDLLVGAPLFMASQADHKLAEVGRVYLFLQLQGPHLLGAPSLLLTGTQLYGRFGSAIAPLGDLNRDGYNDVAVAAPYGGPSGRGQVLVYLGQSEGLNPHPSQVLDSPFPAGSAFGFCLRGATDIDDNGYPDLLVGAYGADKVVVYRAQPVISLNPAVKNCVLHQTNTPVSCFNIQMCVGVTGHNIPQRLYLQAELQLDRQKPRQGRRVLLLGSQQASTTLSMDLGGRQSRLCHNTTAFLRDEADFRDKLSPIVLSFNVSLQPKEAGVAPAVVLHGNTHVQEQTRIILECGEDDVCVPQLHLTASLKGSPLLIGADNVLELQMVAANDGEGAYEAELVVHLPLGAHYMRAVSTMEGLERLICNQRKENQTKAVLCELGNPMKQARIGITMLVSVGNLEDAGESVSFQLQIRSKNSQNPNSEAVLLAVPVRAAAQVELRGNSFPASLVLAEEGDQEQNSLDLKVEHTYELHNNGPGTVRGLHLTIHLPGQSQPSDLLYILGIEPQGGLQCSPQPSPNPLKINWRLPTPSPSPMHPGYRRERRHADLLEPQPSSAAGLRDPVLVSCDSAPCTVVQCELQEMARGQRAMVTVLALLGLSSLRERPLDQFVLQSQAWFNVSSLPYAVPALSLPSGEALVQTQLLRVLEEKAVPIWWVLVGALGGLLLLILLVLAMWKVGFFKRNRPPLEEEDEDEE",
+          "length": 1008,
+          "molWeight": 109872,
+          "crc64": "47B1518B5ED483B1",
+          "md5": "30DB46AA5D09E47A67F323F8003637E0"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI0012349844"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9CSE7",
+        "uniProtkbId": "A0A5F9CSE7_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000036420.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00018905"
+                }
+              ],
+              "value": "Protein AMBP"
+            }
+          }
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000036420.1"
+                }
+              ],
+              "value": "KIF12"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MGWSSDEPGWFPVSSPEPWPSLRSQLSPGQGGRGPSVCRPSLSETAEATKPRTMPTPWALLLLLLAVCLPVRADPVPTLPDDIQVQENFELSRIYGKWYNLAVGSTCPWLKRIKDRMAVSTLVLGEGTSETEISMTSTHWRRGVCEEISGAYEKTDTDGKFLYHKAKWNLTMESYVVHTNYDEYAIFLTKKFSRRHGPTITAKLYGREPQLRESLLQEFREVALGVGIPENSIFTMIDRGECVPGQQEPKPAPVLRTRRAVLPEEEEGSGTGRLVMELNKKEDSCQLGYSEGPCLGLFERYFYNGSSMACETFNYGGCLGNGNNFASEKECLQTCRTVAACSLPIVPGPCRGIFPLWAFDAVQGKCVLFNYGGCQGNGNKFYSEKECKEYCGKPGDGRGPMGCCAGLGGCQELGPGGTLVGGGGLQLWVLTLCSVSSPFMLGALAFHL",
+          "length": 448,
+          "molWeight": 49046,
+          "crc64": "F6D066A3BE2B6A21",
+          "md5": "AADBBAC9C855343B0087FC9887607C04"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001236CDAF"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1TSY8",
+        "uniProtkbId": "G1TSY8_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000020157.2"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00018905"
+                }
+              ],
+              "value": "Protein AMBP"
+            }
+          }
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000020157.2"
+                }
+              ],
+              "value": "KIF12"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MGADPAPGIDWSRPWGPDWSWLEQSKHQGHLQATGLCPSLRSQLSPGQGGRGPSVCRPSLSETAEATKPRTMPTPWALLLLLLAVCLPVRADPVPTLPDDIQVQENFELSRIYGKWYNLAVGSTCPWLKRIKDRMAVSTLVLGEGTSETEISMTSTHWRRGVCEEISGAYEKTDTDGKFLYHKAKWNLTMESYVVHTNYDEYAIFLTKKFSRRHGPTITAKLYGREPQLRESLLQEFREVALGVGIPENSIFTMIDRGECVPGQQEPKPAPVLRTRRAVLPEEEEGSGTGRLVMELNKKEDSCQLGYSEGPCLGLFERYFYNGSSMACETFNYGGCLGNGNNFASEKECLQTCRTVAACSLPIVPGPCRGIFPLWAFDAVQGKCVLFNYGGCQGNGNKFYSEKECKEYCGKPGDGDEELLPSN",
+          "length": 423,
+          "molWeight": 46909,
+          "crc64": "D9B3FA73C153AD67",
+          "md5": "B9B9787BF8A006DB62C8933215131E35"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00048C5E1D"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1ST99",
+        "uniProtkbId": "G1ST99_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000006521.3"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00018905"
+                }
+              ],
+              "value": "Protein AMBP"
+            }
+          }
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000006521.3"
+                }
+              ],
+              "value": "KIF12"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MGADPAPGIDWSRPWGPDWSWLEQSKHQGHLQATGLCPSLRSQLSPGQGGRGPSVCRPSLSETAEATKPRTMPTPWALLLLLLAVCLPVRADPVPTLPDDIQVQENFELSRIYGKWYNLAVGSTCPWLKRIKDRMAVSTLVLGEGTSETEISMTSTHWRRGVCEEISGAYEKTDTDGKFLYHKAKWNLTMESYVVHTNYDEYAIFLTKKFSRRHGPTITAKLYGREPQLRESLLQEFREVALGVGIPENSIFTMIDRGECVPGQQEPKPAPVLRTRRAVLPEEEEGSGTGRLVMELNKKEDSCQLGYSEGPCLGLFERYFYNGSSMACETFNYGGCLGNGNNFASEKECLQTCRTVAACSLPIVPGPCRGIFPLWAFDAVQGKCVLFNYGGCQGNGNKFYSEKECKEYCGKPGDGRGPMGCCAGLGGCQELGPGGTLVGGGGLQLWVLTLCSVSSPFMLGALAFHL",
+          "length": 466,
+          "molWeight": 50984,
+          "crc64": "90E059397C9EFD1F",
+          "md5": "BBB7BD4960E6F5C3CCDCE05D25BB8986"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001235570B"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DT87",
+        "uniProtkbId": "A0A5F9DT87_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000048733.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00073982"
+                }
+              ],
+              "value": "Ribosyldihydronicotinamide dehydrogenase [quinone]"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00066401"
+                  }
+                ],
+                "value": "1.10.5.1"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00083661"
+                  }
+                ],
+                "value": "NRH dehydrogenase [quinone] 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077696"
+                  }
+                ],
+                "value": "NRH:quinone oxidoreductase 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077622"
+                  }
+                ],
+                "value": "Quinone reductase 2"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000048733.1"
+                }
+              ],
+              "value": "NQO2"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MPPRVYIRGRLESGVDLGLESTHIIFTKQRRGLDSAHSSLPLPLLLSLTDCWVPRRGQLPGTQRRNTSPHAMAGAVSNPEVFSYGVEAYEACKKRCLTSDILEEQKKVQEADLVIFQFPLYWFSVPAIMKGWMDRVLCQGFAFDFPGIYDAGFLKGKLALLSLTTGGTAEMYTRTGASGDFRYFLWPLQHGALHFCGFQVLAPQISFAPEYASEEERKAMVASWAQRLKTIWQEKPIQCTPPWYFGH",
+          "length": 247,
+          "molWeight": 27901,
+          "crc64": "F33ADA43D7DB6B7A",
+          "md5": "847876A7E3E928FB44A67FE701851A57"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00123699B4"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1TBR1",
+        "uniProtkbId": "G1TBR1_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000014175.2"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00073982"
+                }
+              ],
+              "value": "Ribosyldihydronicotinamide dehydrogenase [quinone]"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00066401"
+                  }
+                ],
+                "value": "1.10.5.1"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00083661"
+                  }
+                ],
+                "value": "NRH dehydrogenase [quinone] 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077696"
+                  }
+                ],
+                "value": "NRH:quinone oxidoreductase 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077622"
+                  }
+                ],
+                "value": "Quinone reductase 2"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000014175.2"
+                }
+              ],
+              "value": "NQO2"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MAGKKVLIVYAHQEPKSFNGSLKRVAVEELSRQGCAVTVSDLYAMDFEPRATRKDIAGAVSNPEVFSYGVEAYEACKKRCLTSDILEEQKKVQEADLVIFQFPLYWFSVPAIMKGWMDRVLCQGFAFDFPGIYDAGFLKGKLALLSLTTGGTAEMYTRTGASGDFRYFLWPLQHGALHFCGFQVLAPQISFAPEYASEEERKAMVASWAQRLKTIWQEKPIQCTPPWYFGH",
+          "length": 231,
+          "molWeight": 26068,
+          "crc64": "98BC36DCE2B21E83",
+          "md5": "D1C8D51F28B67D0415DAD942A8F7F7D0"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI0001C606B2"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DC05",
+        "uniProtkbId": "A0A5F9DC05_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000043779.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040873"
+                }
+              ],
+              "value": "Coagulation factor X"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00012181"
+                  }
+                ],
+                "value": "3.4.21.6"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041550"
+                  }
+                ],
+                "value": "Stuart factor"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000043779.1"
+                }
+              ],
+              "value": "F10"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "ADVHSHAHLLNAPGSLTSASSYLLVFISRRRANDVLARTRRANSFLEELKKGNLERECMEENCSYEEALEVFEDREKTVRVAPDGDQCESNPCQNQGTCKDGLGMYTCSCVEGYEGQDCELFTRKLCSLDNGGCDQFCKEEENSVLCSCASGYTLGDNGKSCISTELFPCGKVTLGRWRRSPATNSSEGPPEAPGPEQQDDGNLTATENPFNLLDSPEPPPEDDSSSLVRIVGGQDCRDGECPWQALLVNEENEGFCGGTILSEYHVLTAAHCLHQAKRFKVRVGDRDTEHEEGNEETHEVEVVVKHNRFVKETYDFDIAVLRLKTPITFRRNVAPACLPQKDWAESTLMAQKTGIVSGFGRTHEMGRLSTTLKMLEVPYVDRNSCKLSSSFTITQNMFCAGYDARPEDACQGDSGGPHVTRFRDTYFVTGIVSWGEGCARKGKFGVYTKVSNFLKWIEKSMRARAVPVAEAAGTPGPTQPTIKGSPS",
+          "length": 488,
+          "molWeight": 53756,
+          "crc64": "131BA1E8C2B497A6",
+          "md5": "63BE75E15B51D7A06D29F97FAC93A9DD"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00123683B1"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DLB4",
+        "uniProtkbId": "A0A5F9DLB4_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000046905.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00070431"
+                }
+              ],
+              "value": "Coagulation factor V"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00080403"
+                  }
+                ],
+                "value": "Activated protein C cofactor"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000046905.1"
+                }
+              ],
+              "value": "F5"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MLPGCPHLWVLLVLGTSWAGWGSQGTEAARIRQFYVAAQAISWSYRPELTNLSLNTSGTSFKKIVYREYEAYFKKEKPQSSISGLLGPTLYAEVGDIMKVHFKNKADKPLSIHPQGIKYSKFSEGASYPDHTFPVEKMDDAVAPGQEYTYEWTISEDSGPTHDDPPCLTHIYYSYDDLIQDFNSGLIGPLLICKKGTLAEDGTQKLFDRQHVLLFAVFDESKSWSQSSSLMYTVNGYVNGTMPDITVCAHDHISWHLIGMSSGPELFSIHFNGQVLEQNHHKLSAITLVSATSTTANMTVSSEGRWIISSFIPKHFQAGMQAYLDIKNCPKKTRSPKKLTRDQRRHIKRWEYFIAAEEVIWDYAPIIPANMDKKYRSLHLDNFSNQIGKHYKKVVYKQYQDENFTKRMDNPNIKEDGILGPIIRAQVRDTLKIVFKNSASRPYSIYPHGVTLSPYEVEVNSSSSSSGNKTVTRAVQPGETYIYKWNILEFDEPTENDAQCLTRPYYSDVDITRDIASGLIGLLLICKSRSLDKRGIQRAADIEQQAVFAVFDENKSWYLEDNINKFCENPDEVKRDDPKFYASNIMSTINGYVPESIPILGFCFDDTVQWHFCSVGNQDDILTIHFTGHSFIYGKRHEDTLTLFPMRGESVTVTMDNVGTWMLTTVNSGPRSKNLRLRFRDVKCNRDDDDDSYEIYQPPTSSPIDTRKMRDSSENRDEEYDAEYDYQNSLASSLGIRSFRNSSLNQEEEELNLTALALEGSSEVISASTGAALGSNSSSPRNISRLMVDNLTGPQKTFPHSGSAGAGSPLRHHGGLDNDSVLNSSTKESSPYSEDPIEDPSQSDITGIHLLPLEAEQSRSQEHAEHKGSKVQRDRAAKHMFSWMELPTHKLEKHSNQNNASPSRMEPWENIPSALLLLKQKDPSKILNGKWHVASEKGNYEIIQDADEDVAPKKMLNGSQGASRAWEEHTPFTNKPRKHSGHTFPGFKHTSLRAEQGGGNRRPKKSPFSIKTRKKKKEEKLVHYVPLSPRSFRPLTGETDTRLEHSLFPHKYKDTSLPTDLNQTSPSVNVDMIASLLDHNQNPPNGPGQTSSPPDLYQMVSPEEHHQTFPTQNPDQMYLTTVPSHRSSPLQLTQMPHYDISFESFPTESNQMSPSLEREIGQTTISPDLSQSASSLDIGQVPLSPDLDQGTSFPDLSQMPLSPDLDQGTSFPDLGQMPLSPDLDQGTSFPDLSQMPPSPDLDQGTSFPDLNQMPPSPNLDQETSSPDLGQMPSSPDLGQMPLSPDLDQGTSFPDLGQMPLSPDLDQGTFFPDLGQVTLSPNISPTILSTPSSLPDIDQTSYPSESGQPLPFPESGQTVVYPDLSHMPSPSSAPILNDTFKEVNPLVVVGVSGDDGDYIEIIPRQEVQSEEDDSSEIDYVSYDDPYKTDLRTDINSSRNPDSIAAWYLLRSNNGNRRNYYIAAEEISWDYSKFAQRYGDDMHNEDADDIPKATVYKKVVFRKYLDSTFTRRDPQGENEDHLGILGPVIRAEVDDVIQVRFKNLASRPYSLHAHGLSYEKSSEGKTYEDDSPEWFQEDNAIQPNCSYTYVWHATQRSGPESPGSACRAWTYYSAVNSEKDIHSGLIGPLLVCRKGTLHKASNMPVDRREFILLFMVFNEKKSWYYEKKSKTSWRPSSEVKNPYEFHAINGMIYSLPGLRMYEQEWVRLHLLNMGGSKDIHVVHFHGQTLLENGTQQHQLGVWPLLPGYWEPRLARLNNGGSYNAWSIEKTTVESAWKTWIQVDMQREVVITGIQTQGAKHYLKSCYITEFCVAYSSDQTNWKIFKGNSTRNVMYFNGNSDASTTKENLFDPPIVARYIRISPIRSYNRPALRMELLGCEVNGCSAPLGMESGKIENKQITASSFKKSWWGDYWEPSLARLNAQGRVNAWQAKANNNIQWLQIDLLKIKKITAIATQGCKSLSSEMFVRSYTIHYSDKGVDWKAYRQKSSTADKIFEGNSNTKGQVKNFFNPPIISRFIRIIPKTWNQSIALRLELFGCDVY",
+          "length": 2039,
+          "molWeight": 230051,
+          "crc64": "D2B3FF2A33067278",
+          "md5": "8FB92CBEE6E8AC3C884916DA44A0675E"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001236BC10"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1U6T0",
+        "uniProtkbId": "G1U6T0_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000025128.2"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00070431"
+                }
+              ],
+              "value": "Coagulation factor V"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00080403"
+                  }
+                ],
+                "value": "Activated protein C cofactor"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000025128.2"
+                }
+              ],
+              "value": "F5"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MLPGCPHLWVLLVLGTSWAGWGSQGTEAARIRQFYVAAQAISWSYRPELTNLSLNTSGTSFKKIVYREYEAYFKKEKPQSSISGLLGPTLYAEVGDIMKVHFKNKADKPLSIHPQGIKYSKFSEGASYPDHTFPVEKMDDAVAPGQEYTYEWTISEDSGPTHDDPPCLTHIYYSYDDLIQDFNSGLIGPLLICKKGTLAEDGTQKLFDRQHVLLFAVFDESKSWSQSSSLMYTVNGYVNGTMPDITVCAHDHISWHLIGMSSGPELFSIHFNGQVLEQNHHKLSAITLVSATSTTANMTVSSEGRWIISSFIPKHFQAGMQAYLDIKNCPKKTRSPKKLTRDQRRHIKRWEYFIAAEEVIWDYAPIIPANMDKKYRSLHLDNFSNQIGKHYKKVVYKQYQDENFTKRMDNPNIKEDGILGPIIRAQVRDTLKIVFKNSASRPYSIYPHGVTLSPYEVEVNSSSSSSGNKTVTRAVQPGETYIYKWNILEFDEPTENDAQCLTRPYYSDVDITRDIASGLIGLLLICKSRSLDKRGIQRAADIEQQAVFAVFDENKSWYLEDNINKFCENPDEVKRDDPKFYASNIMSTINGYVPESIPILGFCFDDTVQWHFCSVGNQDDILTIHFTGHSFIYGKRHEDTLTLFPMRGESVTVTMDNVGTWMLTTVNSGPRSKNLRLRFRDVKCNRDDDDDSYEIYQPPTSSPIDTRKMRDSSENRDEEYDAEYDYQNSLASSLGIRSFRNSSLNQEEEELNLTALALEGSSEVISASTGAALGSNSSSPRNISRLMVDNLTGPQKTFPHSGSAGAGSPLRHHGGLDNDSVLNSSTKESSPYSEDPIEDPSQSDITGIHLLPLEAEQSRSQEHAEHKGSKVQRDRAAKHMFSWMELPTHKLEKHSNQNNASPSRMEPWENIPSALLLLKQKDPSKILNGKWHVASEKGNYEIIQDADEDVAPKKMLNGSQGASRAWEEHTPFTNKPRKHSGHTFPGFKHTSLRAEQGGGNRRPKKSPFSIKTRKKKKEEKLVHYVPLSPRSFRPLTGETDTRLEHSLFPHKYKDTSLPTDLNQTSPSVNVDMIASLLDHNQNPPNGPGQTSSPPDLYQMVSPEEHHQTFPTQNPDQMYLTTVPSHRSSPLQLTQMPHYDISFESFPTESNQMSPSLEREIGQTTISPDLSQSASSLDIGQVPLSPDLDQGTSFPDLSQMPLSPDLDQGTSFPDLGQMPLSPDLDQGTSFPDLSQMPPSPDLDQGTSFPDLNQMPPSPNLDQETSSPDLGQMPSSPDLGQMPLSPDLDQGTSFPDLGQMPLSPDLDQGTFFPDLGQVTLSPNISPTILSTPSSLPDIDQTSYPSESGQPLPFPESGQTVVYPDLSHMPSPSSAPILNDTFKEVNPLVVVGVSGDDGDYIEIIPRQEVQSEEDDSSEIDYVSYDDPYKTDLRTDINSSRNPDSIAAWYLLRSNNGNRRNYYIAAEEISWDYSKFAQRYGDDMHNEDADDIPKATVYKKVVFRKYLDSTFTRRDPQGENEDHLGILGPVIRAEVDDVIQVRFKNLASRPYSLHAHGLSYEKSSEGKTYEDDSPEWFQEDNAIQPNCSYTYVWHATQRSGPESPGSACRAWTYYSAVNSEKDIHSGLIGPLLVCRKGTLHKASNMPVDRREFILLFMVFNEKKSWYYEKKSKTSWRPSSEVKNPYEFHAINGMIYSLPGLRMYEQEWVRLHLLNMGGSKDIHVVHFHGQTLLENGTQQHQLGVWPLLPGSFNTVEMKASKPGWWLLDTEVGENQRLGMQTPFLIIDKECKQPLGLSTGAIADSQIKASEYLGYWEPRLARLNNGGSYNAWSIEKTTVESAWKTWIQVDMQREVVITGIQTQGAKHYLKSCYITEFCVAYSSDQTNWKIFKGNSTRNVMYFNGNSDASTTKENLFDPPIVARYIRISPIRSYNRPALRMELLGCEVNGCSAPLGMESGKIENKQITASSFKKSWWGDYWEPSLARLNAQGRVNAWQAKANNNIQWLQIDLLKIKKITAIATQGCKSLSSEMFVRSYTIHYSDKGVDWKAYRQKSSTADKIFEGNSNTKGQVKNFFNPPIISRFIRIIPKTWNQSIALRLELFGCDVY",
+          "length": 2102,
+          "molWeight": 236976,
+          "crc64": "1C0C7E6CBC075983",
+          "md5": "A7F16F2A0ECFABB49CFC429FDA64502D"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00039049E2"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DUF5",
+        "uniProtkbId": "A0A5F9DUF5_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000049373.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00073982"
+                }
+              ],
+              "value": "Ribosyldihydronicotinamide dehydrogenase [quinone]"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00066401"
+                  }
+                ],
+                "value": "1.10.5.1"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00083661"
+                  }
+                ],
+                "value": "NRH dehydrogenase [quinone] 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077696"
+                  }
+                ],
+                "value": "NRH:quinone oxidoreductase 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077622"
+                  }
+                ],
+                "value": "Quinone reductase 2"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000049373.1"
+                }
+              ],
+              "value": "NQO2"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MPPRVYIRGRLESGVDLGLESTHIIFTKQRRGLDSAHSSLPLPLLLSLTDCWVPRRGQLPGTQRRNTSPHAMAGKKVLIVYAHQEPKSFNGSLKRVAVEELSRQGCAVTVSDLYAMDFEPRATRKDIAGAVSNPEVFSYGVEAYEACKKRCLTSDILEEQKKVQEADLVIFQFPLYWFSVPAIMKGWMDRVLCQGFAFDFPGIYDAGFLKGKLALLSLTTGGTAEMYTRTGASGDFRYFLWPLQHGALHFCGFQVLAPQISFAPEYASEEERKAMVASWAQRLKTIWQEKPIQCTPPWYFGH",
+          "length": 302,
+          "molWeight": 34007,
+          "crc64": "F023E219573392B0",
+          "md5": "A52DB2EF73A20AA333E9D5E6348D1180"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001235C746"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1U6I7",
+        "uniProtkbId": "G1U6I7_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000025032.2"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040873"
+                }
+              ],
+              "value": "Coagulation factor X"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00012181"
+                  }
+                ],
+                "value": "3.4.21.6"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041550"
+                  }
+                ],
+                "value": "Stuart factor"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000025032.2"
+                }
+              ],
+              "value": "F10"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MRLLIKTAVLGKAGLGEDTPPRNPALTSLQAELQSGGWNEKDVQPPGSPHSDPCPGPVTEGTGASVLRHTMANPLHLVLLGAALAGLLLSGSSVFISRRRANDVLARTRRANSFLEELKKGNLERECMEENCSYEEALEVFEDREKTNEFWNKYVDGDQCESNPCQNQGTCKDGLGMYTCSCVEGYEGQDCELFTRKLCSLDNGGCDQFCKEEENSVLCSCASGYTLGDNGKSCISTELFPCGKVTLGRWRRSPATNSSEGPPEAPGPEQQDDGNLTATENPFNLLDSPEPPPEDDSSSLVRIVGGQDCRDGECPWQALLVNEENEGFCGGTILSEYHVLTAAHCLHQAKRFKVRVGDRDTEHEEGNEETHEVEVVVKHNRFVKETYDFDIAVLRLKTPITFRRNVAPACLPQKDWAESTLMAQKTGIVSGFGRTHEMGRLSTTLKMLEVPYVDRNSCKLSSSFTITQNMFCAGYDARPEDACQGDSGGPHVTRFRDTYFVTGIVSWGEGCARKGKFGVYTKVSNFLKWIEKSMRARAVPVAEAAGTPGPTQPTIKGSPS",
+          "length": 560,
+          "molWeight": 61294,
+          "crc64": "AF2855922404D9B8",
+          "md5": "9FC2B5A12AE185479D33D42C59A1B53A"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI000390491A"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1T0F8",
+        "uniProtkbId": "G1T0F8_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000009474.3"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00093611"
+                }
+              ],
+              "value": "Factor VII-activating protease"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00093645"
+                  }
+                ],
+                "value": "Hepatocyte growth factor activator-like protein"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00093672"
+                  }
+                ],
+                "value": "Hyaluronan-binding protein 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00075784"
+                  }
+                ],
+                "value": "Plasma hyaluronan-binding protein"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000009474.3"
+                }
+              ],
+              "value": "HABP2"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MCAKMFPLHLLLLMVLVGKTSIGFSLTSLLEDLDPDWTPDNYDYSYEHYNQGENTGATPAYPENPDWYYAEDDPCQSNPCDHGGTCVVSQDTFKCKCPAPFSGNRCQKVQNKCVNNPCGRGECLITQSPPYFRCTCKYPHTGPDCSRVVPACRPNPCQNGGTCFRHKRRSRFRCACADQYRGRFCEIGPDDCYTGDGYSYRGQVSRTVNQHPCLYWNSHLLLQENYNMFMEDAEAHGIGEHNFCRNPDGDKKPWCFVKVNSEKVKWEYCAVSACSTPDTDNLEGSPAEPLVKIPGFDTCGKTEVAERKLKRIYGGFKSTAGKHPWQASLQTSMPLTVSMPQGHFCGGTLIHPCWVLTAAHCTDIKIKHLKVVLGDQDLKKTEFHEQTFGVEKIVKYSHYNERDEIPHNDIALLKLKPVDGHCALESKYVKTVCLPDGPFPSGTECHISGWGVTETGEGSRQLLDAKVKLIANTLCNSRRLYDHMIDDSMICAGNLQKPGQDTCQGDSGGPLTCEKNGTYYISGIVSWGLECGKKPGVYTQVTRFLSWIKATIQREAAV",
+          "length": 558,
+          "molWeight": 62302,
+          "crc64": "2A902E2BC225FED1",
+          "md5": "9C0615921E040919616CDA0A9899F108"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI000390422A"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DAQ3",
+        "uniProtkbId": "A0A5F9DAQ3_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000043342.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00093611"
+                }
+              ],
+              "value": "Factor VII-activating protease"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00093645"
+                  }
+                ],
+                "value": "Hepatocyte growth factor activator-like protein"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00093672"
+                  }
+                ],
+                "value": "Hyaluronan-binding protein 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00075784"
+                  }
+                ],
+                "value": "Plasma hyaluronan-binding protein"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000043342.1"
+                }
+              ],
+              "value": "HABP2"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MCAKMFPLHLLLLMVLVGKTSIGFSLTSLLEDLDPDWTPDNYDYSYEHYNQGENTGATPAYPENPDWYYAEDDPCQSNPCDHGGTCVVSQDTFKCKCPAPFSGNRCQKVQNKCVNNPCGRGECLITQSPPYFRCTCKYPHTGPDCSRVVPACRPNPCQNGGTCFRHKRRSRFRCACADQYRGRFCEIGPDDCYTGDGYSYRGQVSRTVNQHPCLYWNSHLLLQENYNMFMEDAEAHGIGEHNFCRNPDGDKKPWCFVKVNSEKVKWEYCAVSACSTPDTDNLEGSPAEPLVKIPGFDTCGKTEVAERKLKRIYGGFKSTAGKHPWQASLQTSMPLTVSMPQGHFCGGTLIHPCWVLTAAHCTDIKIKHLKVVLGDQDLKKTEFHEQTFGVEKIVKYSHYNERDEIPHNDIALLKLKPVDGHCALESKYVKTVCLPDGPFPSGTECHISGWGVTETGEGSRQLLDAKVKLIANTLCNSRRLYDHMIDDSMICAGNLQKPGQDTCQNPHDSPGTQLAV",
+          "length": 516,
+          "molWeight": 57699,
+          "crc64": "84C72ADA570BEDB3",
+          "md5": "5455C7E17E44DBD8F67E76B80EFBEE86"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00123626CE"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "Q9TUN4",
+        "uniProtkbId": "Q9TUN4_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "AAD51954.1"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00069450"
+                }
+              ],
+              "value": "Integrin alpha-IIb"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00082416"
+                  }
+                ],
+                "value": "GPalpha IIb"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00078858"
+                  }
+                ],
+                "value": "Platelet membrane glycoprotein IIb"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "EMBL",
+                  "id": "AAD51954.1"
+                }
+              ],
+              "value": "GPIIb"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MARALGPLPAFWFLEWALLLLGPGAGPPAWALNLDPVQLTIYTGLNGSHFGFSLDFYKDSHGSVAIVVGAPRTLGLGQKETGGVFLCPWKAEGSPCSLLSFNLSDEYRKTSSQLFQTFRARQGLGASVVSWNDIIVACAPWQQWNVLEKAAEAEKTPVGGCFVAHLPSGRRAEYSPCRGNTMSHVYEKMYLRDLRSCEAGFSSVITQEGELVLGAPGGYYYLGFLVRAPIANIISSYSPGVLLWTVPNQNFTFDYSNRKYFDGYRGYSVAVGEFDGDLSTTEYVLGAPTWSWTMGAVEILDSYFYRLHRLQGEQMASYFGHSVAVTDVNGDGRHDLLVGAPLFMASQADHKLAEVGRVYLFLQLQGPHLLGAPSLLLTGTQLYGRFGSAIAPLGDLNRDGYNDVAVAAPYGGPSGRGQVLVYLGQSEGLNPHPSQVLDSPFPAGSAFGFCLRGATDIDDNGYPDLLVGAYGADKVVVYRAQPVVMADVQLLVQDSLNPAVKNCVLHQTNTPVSCFNIQMCVGVTGHNIPQGLYLQAELQLDRQKPRQGRRVLLLGSQQASTTLSMDLGGRQSRLCHNTTAFLRDEADFRDKLSPIVLSFNVSLQPKEAGVAPAVVLHGNTHVQEQTRIILECGEDDVCVPQLHLTASLKGSPLLIGADNVLELQMVAANDGEGAYEAELVVHLPLGAHYMRAVSTMEGLERLICNQRKENQTKAVLCELGNPMKQARIGITMLVSVGNLEDAGESVSFQLQIRSKNSQNPNSEAVLLAVPVRAAAQVELRGNSFPASLVLAEEGDQEQNSLDLKVEHTYELHNNGPGTVRGLHLTIHLPGQSQPSDLLYILGIEPQGGLQCSPQPSPNPLKINWRLPTPSPSPMHPGYRRERRHADLLEPQPSSAAGPRDPVLVSCDSAPCTVVQCELQEMARGQRAMVTVLALLGLSSLRERPLDQFVLQSQAWFNVSSLPYAVPALSLPSGEALVQTQLLRVLEEKAVPIWWVLVGALGGLLLLILLVLAMWKVGFFKRNRLPLEEEDEDEE",
+          "length": 1034,
+          "molWeight": 112476,
+          "crc64": "4A1C9BD799118BBC",
+          "md5": "4C772DAB98A8128A887BC5136607B25F"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI0000087EE7"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "O77688",
+        "uniProtkbId": "O77688_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "AAC71006.1"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "AAC71006.1"
+                  }
+                ],
+                "value": "Prothrombin"
+              }
+            }
+          ],
+          "flag": "Fragment"
+        },
+        "sequence": {
+          "value": "TGHSGVTQPPPLEPCVSERGRHYQGRLAVTKQGTPCLAWSSPEAQALSRGKSFSPQVPLVENFCRNPDGDEEGAWRYVAGRPSSFEYCGLNYCEEAIEEEVLGLEEAIEGR",
+          "length": 111,
+          "molWeight": 12168,
+          "crc64": "CB86624D8D7F9DE9",
+          "md5": "7A15867805C433551FA5B84BC122B418"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00000876AE"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9D4Q6",
+        "uniProtkbId": "A0A5F9D4Q6_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000040700.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040464"
+                }
+              ],
+              "value": "Inactive serine protease PAMR1"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00042985"
+                  }
+                ],
+                "value": "Peptidase domain-containing protein associated with muscle regeneration 1"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041872"
+                  }
+                ],
+                "value": "Regeneration-associated muscle protease homolog"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000040700.1"
+                }
+              ],
+              "value": "PAMR1"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MELGWWPQLGLAFLQLLLISSLPREYTVINEGCPGAEWNIMCRECCEYDQIECVCPGRKEVVGYTIPCCRNEENECDSCLIHPGCTIFENCKSCRNGSWGGTLDDFYVKGFYCAECHAGWYGGDCMPCSSSPCFHDGTCLLDKAGSYRCACLAGYTGQHCENLLEERNCSTPGGPVNGYRKVTGGPGLIDGHHARVGTIVSFFCNNSYVLSGPEKRTCQQNGEWSGKQPICIKACREPKISDLVRRRVLPMQVQSRETPLHQLYSAAFSKQKLQGAPTKKPALPFGDLPTGYQHLHTQLQYECISPFYRRLGSSRRTCLRTGKWSGRAPSCIPICGKIENITSPKTQGTRWPWQAAIYRRTSGVHDGGLHKGAWFLVCSGALVNERTVVVAAHCVTDLGKINMIKTADLKVVLGKFYRDDDRDEKTIQNLRISAIILHPNYDPILLDADIAILKLLDKARMSSRVQPICLAAARDLSTAFQESHITVAGWNILADVRSPGFKNDTLRSGVVKVVDSLLCEEQHEEHGIPVSVTDTMFCASRDPSAPSDICTAETGGIAAVSFPGRASPEPRWHLMGLVSWSYDRTCTHSLSTAFTKVLPFKDWIERNLK",
+          "length": 609,
+          "molWeight": 67494,
+          "crc64": "917B70A9CC3C4575",
+          "md5": "8A901AAF4F813203CBC92B6B342C17C8"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001235B9FF"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DP77",
+        "uniProtkbId": "A0A5F9DP77_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000047289.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040464"
+                }
+              ],
+              "value": "Inactive serine protease PAMR1"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00042985"
+                  }
+                ],
+                "value": "Peptidase domain-containing protein associated with muscle regeneration 1"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041872"
+                  }
+                ],
+                "value": "Regeneration-associated muscle protease homolog"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000047289.1"
+                }
+              ],
+              "value": "PAMR1"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MELGWWPQLGLAFLQLLLISSLPREYTVINEGCPGAEWNIMCRECCEYDQIECVCPGRKEVVGYTIPCCRNEENECDSCLIHPGCTIFENCKSCRNGSWGGTLDDFYVKGFYCAECHAGWYGGDCMRCGQVLRAPKGQILLESYPLNAHCEWTIHAKPGFVIQLRFVMLSLEFDYMCQYDYVEVRDGDNSDGPIIKRVCGNERPAAIRSSGPALHVLFHSDGSKNFDGFHAIFEEITACSSSPCFHDGTCLLDKAGSYRCACLAGYTGQHCENLLEAEKSKTKAPEDALSVLEERNCSTPGGPVNGYRKVTGGPGLIDGHHARVGTIVSFFCNNSYVLSGPEKRTCQQNGEWSGKQPICIKACREPKISDLVRRRVLPMQVQSRETPLHQLYSAAFSKQKLQGAPTKKPALPFGDLPTGYQHLHTQLQYECISPFYRRLGSSRRTCLRTGKWSGRAPSCIPICGKIENITSPKTQGTRWPWQAAIYRRTSGVHDGGLHKGAWFLVCSGALVNERTVVVAAHCVTDLGKINMIKTADLKVVLGKFYRDDDRDEKTIQNLRISAIILHPNYDPILLDADIAILKLLDKARMSSRVQPICLAAARDLSTAFQESHITVAGWNILADVRSPGFKNDTLRSGVVKVVDSLLCEEQHEEHGIPVSVTDTMFCASRDPSAPSDICTAETGGIAAVSFPGRASPEPRWHLMGLVSWSYDRTCTHSLSTAFTKVLPFKDWIERNLK",
+          "length": 737,
+          "molWeight": 81804,
+          "crc64": "ADBDCC4BCC3FD4BD",
+          "md5": "93891904F0AB9B90D3E244DF864C60DC"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00048F8849"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "B7UCP6",
+        "uniProtkbId": "B7UCP6_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "ACK56061.1"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00073982"
+                }
+              ],
+              "value": "Ribosyldihydronicotinamide dehydrogenase [quinone]"
+            },
+            "ecNumbers": [
+              {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00066401"
+                  }
+                ],
+                "value": "1.10.5.1"
+              }
+            ]
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00083661"
+                  }
+                ],
+                "value": "NRH dehydrogenase [quinone] 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077696"
+                  }
+                ],
+                "value": "NRH:quinone oxidoreductase 2"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00077622"
+                  }
+                ],
+                "value": "Quinone reductase 2"
+              }
+            }
+          ],
+          "flag": "Fragment"
+        },
+        "sequence": {
+          "value": "AHQEPKSFNGSLKRVAVEELSRQGCAVTVSDLYAMDFEPRATRKDIAGAVSNPEVFSYGVEAYEACKKRCLTSDILEEQKKVQEADLVIFQFPLYWFSVPAIMKGWMDRVLCQGFAFDFPGIYDAGFLKGKLALLSLTTGGTAEMYTRTGASGDFRYFLWPLQHGALHFCGFQVLAPQISFAPEYASE",
+          "length": 188,
+          "molWeight": 20966,
+          "crc64": "09F5C9B8EC0D9482",
+          "md5": "4C772B8019589ED32E5EE150F00178FF"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI000188F773"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "A0A5F9DW79",
+        "uniProtkbId": "A0A5F9DW79_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000049900.1"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040464"
+                }
+              ],
+              "value": "Inactive serine protease PAMR1"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00042985"
+                  }
+                ],
+                "value": "Peptidase domain-containing protein associated with muscle regeneration 1"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041872"
+                  }
+                ],
+                "value": "Regeneration-associated muscle protease homolog"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000049900.1"
+                }
+              ],
+              "value": "PAMR1"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MELGWWPQLGLAFLQLLLISSLPREYTVINEGCPGAEWNIMCRECCEYDQIECVCPGRKEVVGYTIPCCRNEENECDSCLIHPGCTIFENCKSCRNGSWGGTLDDFYVKGFYCAECHAGWYGGDCMRCGQVLRAPKGQILLESYPLNAHCEWTIHAKPGFVIQLRFVMLSLEFDYMCQYDYVEVRDGDNSDGPIIKRVCGNERPAAIRSSGPALHVLFHSDGSKNFDGFHAIFEEITACSSSPCFHDGTCLLDKAGSYRCACLAGYTGQHCENLLEERNCSTPGGPVNGGPEKRTCQQNGEWSGKQPICIKACREPKISDLVRRRVLPMQVQSRETPLHQLYSAAFSKQKLQGAPTKKPALPFGDLPTGYQHLHTQLQYECISPFYRRLGSSRRTCLRTGKWSGRAPSCIPICGKIENITSPKTQGTRWPWQAAIYRRTSGVHDGGLHKGAWFLVCSGALVNERTVVVAAHCVTDLGKINMIKTADLKVVLGKFYRDDDRDEKTIQNLRISAIILHPNYDPILLDADIAILKLLDKARMSSRVQPICLAAARDLSTAFQESHITVAGWNILADVRSPGFKNDTLRSGVVKVVDSLLCEEQHEEHGIPVSVTDTMFCASRDPSAPSDICTAETGGIAAVSFPGRASPEPRWHLMGLVSWSYDRTCTHSLSTAFTKVLPFKDWIERNLK",
+          "length": 687,
+          "molWeight": 76457,
+          "crc64": "5AEBC2DB12D31C8B",
+          "md5": "15C22148E2450C0072FC352C646AB91A"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI001236BE75"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "G1TNE0",
+        "uniProtkbId": "G1TNE0_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Ensembl",
+              "id": "ENSOCUP00000018513.2"
+            },
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "Proteomes",
+              "id": "UP000001811"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "recommendedName": {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000256",
+                  "source": "ARBA",
+                  "id": "ARBA00040464"
+                }
+              ],
+              "value": "Inactive serine protease PAMR1"
+            }
+          },
+          "alternativeNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00042985"
+                  }
+                ],
+                "value": "Peptidase domain-containing protein associated with muscle regeneration 1"
+              }
+            },
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000256",
+                    "source": "ARBA",
+                    "id": "ARBA00041872"
+                  }
+                ],
+                "value": "Regeneration-associated muscle protease homolog"
+              }
+            }
+          ]
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "Ensembl",
+                  "id": "ENSOCUP00000018513.2"
+                }
+              ],
+              "value": "PAMR1"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "MELGWWPQLGLAFLQLLLISSLPREYTVINEGCPGAEWNIMCRECCEYDQIECVCPGRKEVVGYTIPCCRNEENECDSCLIHPGCTIFENCKSCRNGSWGGTLDDFYVKGFYCAECHAGWYGGDCMRCGQVLRAPKGQILLESYPLNAHCEWTIHAKPGFVIQLRFVMLSLEFDYMCQYDYVEVRDGDNSDGPIIKRVCGNERPAAIRSSGPALHVLFHSDGSKNFDGFHAIFEEITACSSSPCFHDGTCLLDKAGSYRCACLAGYTGQHCENLLEERNCSTPGGPVNGYRKVTGGPGLIDGHHARVGTIVSFFCNNSYVLSGPEKRTCQQNGEWSGKQPICIKACREPKISDLVRRRVLPMQVQSRETPLHQLYSAAFSKQKLQGAPTKKPALPFGDLPTGYQHLHTQLQYECISPFYRRLGSSRRTCLRTGKWSGRAPSCIPICGKIENITSPKTQGTRWPWQAAIYRRTSGVHDGGLHKGAWFLVCSGALVNERTVVVAAHCVTDLGKINMIKTADLKVVLGKFYRDDDRDEKTIQNLRISAIILHPNYDPILLDADIAILKLLDKARMSSRVQPICLAAARDLSTAFQESHITVAGWNILADVRSPGFKNDTLRSGVVKVVDSLLCEEQHEEHGIPVSVTDTMFCASRDPSAPSDICTAETGGIAAVSFPGRASPEPRWHLMGLVSWSYDRTCTHSLSTAFTKVLPFKDWIERNLK",
+          "length": 720,
+          "molWeight": 80006,
+          "crc64": "E40C8C1F6915A161",
+          "md5": "8E0BBF71569E7D781CF82551D4E3FCC0"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI0003904BA9"
+        }
+      },
+      {
+        "entryType": "UniProtKB unreviewed (TrEMBL)",
+        "primaryAccession": "Q28731",
+        "uniProtkbId": "Q28731_RABIT",
+        "organism": {
+          "scientificName": "Oryctolagus cuniculus",
+          "commonName": "Rabbit",
+          "taxonId": 9986,
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "AAA31477.1"
+            }
+          ],
+          "lineage": [
+            "Eukaryota",
+            "Metazoa",
+            "Chordata",
+            "Craniata",
+            "Vertebrata",
+            "Euteleostomi",
+            "Mammalia",
+            "Eutheria",
+            "Euarchontoglires",
+            "Glires",
+            "Lagomorpha",
+            "Leporidae",
+            "Oryctolagus"
+          ]
+        },
+        "proteinDescription": {
+          "submissionNames": [
+            {
+              "fullName": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000313",
+                    "source": "EMBL",
+                    "id": "AAA31477.1"
+                  }
+                ],
+                "value": "Thrombin"
+              }
+            }
+          ],
+          "flag": "Fragment"
+        },
+        "genes": [
+          {
+            "geneName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "EMBL",
+                  "id": "AAA31477.1"
+                }
+              ],
+              "value": "thrombin"
+            }
+          }
+        ],
+        "sequence": {
+          "value": "QELLCAASLISDRWVLTAAHCLLYPPWDKNFTVNDILVRIGKYARSRYERNMEKISTLEKIIIHPGYNWRENLDRDIALMKLKKPVAFSDYIHPVCLPDKQIVTSLLQAGHKGRVTGWGNLKEMWTVNMNEVQPSVLQMVNLPLVERPICKASTGIRVTDNMFCAGYKPEEGKRGDACEGDSGGPFVMKNPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIRKMVDRFG",
+          "length": 235,
+          "molWeight": 27093,
+          "crc64": "92FF3E4F93B360E0",
+          "md5": "1E37351C3EF45A4FACC340A1C44AA5A2"
+        },
+        "extraAttributes": {
+          "uniParcId": "UPI00000872F3"
+        }
+      }
+    ]
+  },
+  "\"Oryctolagus cuniculus\" \"coagulation factor II\"": {
+    "results": []
+  }
+}

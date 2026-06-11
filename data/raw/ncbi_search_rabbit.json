@@ -1,0 +1,230 @@
+{
+  "\"Oryctolagus cuniculus\"[Organism] AND prothrombin[Protein Name]": {
+    "search": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "2",
+        "retmax": "2",
+        "retstart": "0",
+        "idlist": [
+          "2862819862",
+          "3406794"
+        ],
+        "translationset": [],
+        "translationstack": [
+          {
+            "term": "\"Oryctolagus cuniculus\"[Organism]",
+            "field": "Organism",
+            "count": "98517",
+            "explode": "Y"
+          },
+          {
+            "term": "prothrombin[Protein Name]",
+            "field": "Protein Name",
+            "count": "968",
+            "explode": "N"
+          },
+          "AND"
+        ],
+        "querytranslation": "\"Oryctolagus cuniculus\"[Organism] AND prothrombin[Protein Name]"
+      }
+    },
+    "summary": {
+      "header": {
+        "type": "esummary",
+        "version": "0.3"
+      },
+      "result": {
+        "uids": [
+          "2862819862",
+          "3406794"
+        ],
+        "2862819862": {
+          "uid": "2862819862",
+          "term": "2862819862",
+          "caption": "XP_002709128",
+          "title": "prothrombin [Oryctolagus cuniculus]",
+          "extra": "gi|2862819862|ref|XP_002709128.3|",
+          "gi": 2862819862,
+          "createdate": "2010/03/23",
+          "updatedate": "2024/11/28",
+          "taxid": 9986,
+          "slen": 617,
+          "moltype": "aa",
+          "topology": "linear",
+          "sourcedb": "refseq",
+          "projectid": "1178637",
+          "genome": "genomic",
+          "subtype": "chromosome",
+          "subname": "1",
+          "completeness": "complete",
+          "geneticcode": "1",
+          "organism": "Oryctolagus cuniculus",
+          "statistics": "",
+          "flags": 512,
+          "properties": {
+            "aa": "2",
+            "value": "2"
+          },
+          "oslt": {
+            "indexed": true,
+            "value": "XP_002709128.3"
+          },
+          "accessionversion": "XP_002709128.3"
+        },
+        "3406794": {
+          "uid": "3406794",
+          "term": "3406794",
+          "caption": "AAC71006",
+          "title": "prothrombin precursor, partial [Oryctolagus cuniculus]",
+          "extra": "gi|3406794|gb|AAC71006.1|",
+          "gi": 3406794,
+          "createdate": "1998/08/09",
+          "updatedate": "2016/07/25",
+          "taxid": 9986,
+          "slen": 111,
+          "moltype": "aa",
+          "topology": "linear",
+          "sourcedb": "insd",
+          "subtype": "strain|tissue_type",
+          "subname": "New Zealand white|liver",
+          "tech": "concept-trans",
+          "completeness": "no-ends",
+          "geneticcode": "1",
+          "organism": "Oryctolagus cuniculus",
+          "strain": "New Zealand white",
+          "statistics": "",
+          "properties": {
+            "aa": "2",
+            "value": "2"
+          },
+          "oslt": {
+            "indexed": true,
+            "value": "AAC71006.1"
+          },
+          "accessionversion": "AAC71006.1"
+        }
+      }
+    },
+    "fasta": ">XP_002709128.3 prothrombin [Oryctolagus cuniculus]\nMEHVPGLRLAGCLAAAALVSLVCSQQVFLAPQRAMSLLQRARRANTGFLEEVRKGNLERECYEEVCSYEE\nAFEALESSSATEAFWAKYTACEPVRTPRENFTNCMEGHCAQGLGTNYRGQVSVTQSGIECQLWRSRYPHN\nPEINFTTHPEADLKENFCRNPDGSTTGPWCYTRDPSVRREECSVPDCSQGQVTLELRPRTGHSGVTQPPP\nLEPCVSERGRHYQGRLAVTKQGTPCLAWSSPEAQALSRGKSFSPQVPLVENFCRNPDGDEEGAWCYVAGR\nPSSFEYCGLNYCEEAIEEEVLGLEEAIEGRTTEQEFQTFFNQETFGTGEADCGLRPLFEKKSLKDEREEE\nLLESYIHGRIVGGRDAQIGSAPWQVMIFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTVNDILV\nRIGKYARSRYERNMEKISTLEKIIIHPGYNWRENLDRDIALMKLKKPVAFSDYIHPVCLPDKQIVTSLLQ\nAGHKGRVTGWGNLKEMWTVNMNEVQPSVLQMVNLPLVERPICKASTRIRVTDNMFCAGYKPEEGKRGDAC\nEGDSGGPFVMKNPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIRKMVDRFG\n\n>AAC71006.1 prothrombin precursor, partial [Oryctolagus cuniculus]\nTGHSGVTQPPPLEPCVSERGRHYQGRLAVTKQGTPCLAWSSPEAQALSRGKSFSPQVPLVENFCRNPDGD\nEEGAWRYVAGRPSSFEYCGLNYCEEAIEEEVLGLEEAIEGR\n\n"
+  },
+  "\"Oryctolagus cuniculus\"[Organism] AND \"coagulation factor II\"": {
+    "search": {
+      "header": {
+        "type": "esearch",
+        "version": "0.3"
+      },
+      "esearchresult": {
+        "count": "2",
+        "retmax": "2",
+        "retstart": "0",
+        "idlist": [
+          "2862819862",
+          "2327203637"
+        ],
+        "translationset": [],
+        "translationstack": [
+          {
+            "term": "\"Oryctolagus cuniculus\"[Organism]",
+            "field": "Organism",
+            "count": "98517",
+            "explode": "Y"
+          },
+          {
+            "term": "\"coagulation factor II\"[All Fields]",
+            "field": "All Fields",
+            "count": "2908",
+            "explode": "N"
+          },
+          "AND"
+        ],
+        "querytranslation": "\"Oryctolagus cuniculus\"[Organism] AND \"coagulation factor II\"[All Fields]"
+      }
+    },
+    "summary": {
+      "header": {
+        "type": "esummary",
+        "version": "0.3"
+      },
+      "result": {
+        "uids": [
+          "2862819862",
+          "2327203637"
+        ],
+        "2862819862": {
+          "uid": "2862819862",
+          "term": "2862819862",
+          "caption": "XP_002709128",
+          "title": "prothrombin [Oryctolagus cuniculus]",
+          "extra": "gi|2862819862|ref|XP_002709128.3|",
+          "gi": 2862819862,
+          "createdate": "2010/03/23",
+          "updatedate": "2024/11/28",
+          "taxid": 9986,
+          "slen": 617,
+          "moltype": "aa",
+          "topology": "linear",
+          "sourcedb": "refseq",
+          "projectid": "1178637",
+          "genome": "genomic",
+          "subtype": "chromosome",
+          "subname": "1",
+          "completeness": "complete",
+          "geneticcode": "1",
+          "organism": "Oryctolagus cuniculus",
+          "statistics": "",
+          "flags": 512,
+          "properties": {
+            "aa": "2",
+            "value": "2"
+          },
+          "oslt": {
+            "indexed": true,
+            "value": "XP_002709128.3"
+          },
+          "accessionversion": "XP_002709128.3"
+        },
+        "2327203637": {
+          "uid": "2327203637",
+          "term": "2327203637",
+          "caption": "XP_051694642",
+          "title": "proteinase-activated receptor 1 [Oryctolagus cuniculus]",
+          "extra": "gi|2327203637|ref|XP_051694642.1|",
+          "gi": 2327203637,
+          "createdate": "2022/11/08",
+          "updatedate": "2024/11/28",
+          "taxid": 9986,
+          "slen": 426,
+          "moltype": "aa",
+          "topology": "linear",
+          "sourcedb": "refseq",
+          "projectid": "1178637",
+          "genome": "genomic",
+          "subtype": "chromosome",
+          "subname": "14",
+          "completeness": "complete",
+          "geneticcode": "1",
+          "organism": "Oryctolagus cuniculus",
+          "statistics": "",
+          "flags": 512,
+          "properties": {
+            "aa": "2",
+            "value": "2"
+          },
+          "oslt": {
+            "indexed": true,
+            "value": "XP_051694642.1"
+          },
+          "accessionversion": "XP_051694642.1"
+        }
+      }
+    },
+    "fasta": ">XP_002709128.3 prothrombin [Oryctolagus cuniculus]\nMEHVPGLRLAGCLAAAALVSLVCSQQVFLAPQRAMSLLQRARRANTGFLEEVRKGNLERECYEEVCSYEE\nAFEALESSSATEAFWAKYTACEPVRTPRENFTNCMEGHCAQGLGTNYRGQVSVTQSGIECQLWRSRYPHN\nPEINFTTHPEADLKENFCRNPDGSTTGPWCYTRDPSVRREECSVPDCSQGQVTLELRPRTGHSGVTQPPP\nLEPCVSERGRHYQGRLAVTKQGTPCLAWSSPEAQALSRGKSFSPQVPLVENFCRNPDGDEEGAWCYVAGR\nPSSFEYCGLNYCEEAIEEEVLGLEEAIEGRTTEQEFQTFFNQETFGTGEADCGLRPLFEKKSLKDEREEE\nLLESYIHGRIVGGRDAQIGSAPWQVMIFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTVNDILV\nRIGKYARSRYERNMEKISTLEKIIIHPGYNWRENLDRDIALMKLKKPVAFSDYIHPVCLPDKQIVTSLLQ\nAGHKGRVTGWGNLKEMWTVNMNEVQPSVLQMVNLPLVERPICKASTRIRVTDNMFCAGYKPEEGKRGDAC\nEGDSGGPFVMKNPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIRKMVDRFG\n\n>XP_051694642.1 proteinase-activated receptor 1 [Oryctolagus cuniculus]\nMGPRRLLLVAAGLSLCWPLLSARAPHRDPGFGATNHTVGPRTFFLRESDHGFEPFPIDEDQEQNASALAE\nARLRPANHSRPPPPPTVSISPEAAGYLSGPWLRLFIPAVYTGVLVVSLPLNVMAIAVFLLRMKVKKPAVV\nYMLHLATADVLFAAVLPFKISYYFSGSDWRFGSGTCRLVTAAFYCNMYASVLLMTAISVDRFLAVLYPMR\nSLAWRTLGRASFACLAIWATALAGVVPLLLREQAVWVPGLNVTTCHDVLSQGLLEGFYAHYFSAFSAVFF\nFVPLLVSTACYVSIIRCLGSSAVANRGRKSRALLLSAAVFCIFLLCFGPTNVLLVAHYASLSREPASEAA\nYFAYLLCVCVSSVSCCLDPLVYYYASSECQRQLRALLCCRESADGASYNSSGQLVPSKGDTCSSHLAHSV\nYKKLLT\n\n"
+  },
+  "\"Oryctolagus cuniculus\"[Organism] AND F2[Gene Name]": {
+    "error": "429 Client Error: Too Many Requests for url: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=protein&id=2862819862&retmode=json"
+  }
+}
